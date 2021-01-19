@@ -1,13 +1,14 @@
 html = '''
     <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>我是網頁標題</title>
-	</head>
-	<body>
-		<img src="http://www.ehappy.tw/python.png">
-           		 <a href="http://www.e-happy.com.tw">超連結</a>
-	</body>
-	</html>
+     <head>
+      <meta charset="UTF-8">
+            <title>我是網頁標題</title>
+        </head>
+        <body>
+            <div>
+                <p id="p1">我是段落一</p>
+                <p id="p2" class='red'>我是段落二</p>
+            <div>
+        </body>
+ </html>
     '''
-
